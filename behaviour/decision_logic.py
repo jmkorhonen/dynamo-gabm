@@ -1,0 +1,1 @@
+# For the MVP, implement one decision interface such as evaluate_options(state, agent_attributes, context) -> choice, and one or two rule sets (e.g., “buy new vs refurbished vs used”, “repair vs replace”).
